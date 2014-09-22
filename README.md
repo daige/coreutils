@@ -1,7 +1,7 @@
 ##coreutils源码阅读
 
 coreutils [介绍](http://www.gnu.org/software/coreutils/)  
-coreutils 8.23[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar.xz)  
+coreutils 8.23源码[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar.xz)  
 
 ##笔记顺序
 - logname
