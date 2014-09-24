@@ -1,13 +1,19 @@
 ##logname
 
-功能：打印当前登录名  
-参数：无参数
+功能：显示登录名称  
+路径：/usr/bin/logname
+
+参数：无参数  
+用法：logname  
+
+##用途
+用于显示当前进程的登录名称，对应于系统状态环境中的LOGNAME变量。只有当用户登录进系统的时候才会设置此变量。 
 
 ##调用流程
 调用getlogin函数返回当前登录名
 
 
-##重写
+##代码
       1 #include <stdio.h>
       2 #include <unistd.h>
       3 #include <stdlib.h>
