@@ -6,13 +6,13 @@ coreutils 8.23源码[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar
 ##笔记顺序
 - [logname](./logname/logname.md)
 - [yes](./yes/yes.md)
-- hostid
+- [hostid](./hostid/histid.md)
 - true
 - unlink
 - whoami
 - link
 - tty
-- hostname
+- [hostname](./hostname/hostname.md)
 - dirname
 - nproc
 - users
