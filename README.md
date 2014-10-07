@@ -7,9 +7,9 @@ coreutils 8.23源码[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar
 - [logname](./logname/logname.md)
 - [yes](./yes/yes.md)
 - [hostid](./hostid/hostid.md)
-- true
+- [true](./true/true.md)
 - unlink
-- whoami
+- [whoami](./whoami/whoami.md)
 - link
 - tty
 - [hostname](./hostname/hostname.md)
