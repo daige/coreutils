@@ -7,9 +7,9 @@
 用法： whoami
 
 ##用途
-- whoami　　　当前操作用户名 　有效用户ID 即euid
-- who am i 　等同于who -m 　　实际用户的用户名 即uid
-- who　　　　当前用户登录
+- whoami　当前操作用户名　有效用户ID 即euid
+- who am i 等同于who -m 　实际用户的用户名 即uid
+- who　当前用户登录
 
 ##调用流程
 geteuid函数得到uid  
