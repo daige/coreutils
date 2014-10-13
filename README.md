@@ -11,7 +11,7 @@ coreutils 8.23源码[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar
 - [unlink](./unlink/unlink.md)
 - [whoami](./whoami/whoami.md)
 - [link](./link/link.md)
-- tty
+- [tty](./tty/tty.md)
 - [hostname](./hostname/hostname.md)
 - dirname
 - nproc
