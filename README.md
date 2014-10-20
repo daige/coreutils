@@ -13,7 +13,7 @@ coreutils 8.23源码[下载](http://ftp.gnu.org/gnu/coreutils/coreutils-8.23.tar
 - [link](./link/link.md)
 - [tty](./tty/tty.md)
 - [hostname](./hostname/hostname.md)
-- dirname
+- [dirname](./dirname/dirname.md)
 - nproc
 - users
 - groups
